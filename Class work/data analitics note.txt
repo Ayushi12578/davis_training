@@ -1,0 +1,80 @@
+                                                  DATA ANALITICS
+
+
+PROJECT
+1 MILLION ->DATA SET
+IN PYTHIN
+LIB   ----------->
+  MATPLOTLIB
+NUMPY
+PANDAS
+
+DASBOARD
+POWER BI
+LOOKER STUDIO
+APPSCRIPT
+
+SELECTION STATEMENT
+IF
+IF--ELSE
+NESTED-IF--ELSE
+IF--ELIF--ELSE
+
+ITERATION
+
+Best Example is ----> Ringing Alarm
+To repeat same task until condition become false
+Component
+Initilization :- start
+Condition :-
+Update :-
+Loop in python
+While Loop :- when number of term are not given
+For loop :- When number of term are given
+Range()
+To generate sequence of number in given range
+it is memory efficient (Generate number one by one when needed) Syntax:- variable= range(Start,end,step)
+  strat ---> beginning value(default value is 0)
+end---> if the last value (excluded)
+stop --->gap btw two number
+ 
+Lab work
+find our the factorial of number using while loop
+prime number
+MOdule DAVIS_PYTHON_
+
+					Sequence data type
+it s a collection of datatype
+list ---> collection of any type of item and mutable
+tuple ----> collection of any type of item but immutable
+set ---> Collection of unique elements
+dictionary ---->
+string
+nd-arrary--> for pandas
+series,dataframe ---> for numpy
+
+                                                                                   NumPy
+
+
+
+Numeric python--->
+Installation : Open cmd in admin 
+data type : nd-array(stores collection of element of same datatype)
+benifits of Array: Fast, Homogenous collection, memory efficient
+in int ,string,float whos is big data type (string is a big data type)
+
+
+												To create an array
+variable = numpy.array(list_or_tupple)
+eg1. import numpy as np
+# to create array 
+numbers = np.arrary([20,30,40,50])
+print (numbers)
+
+o/p [20 30 40 50] it can seprated by space not ,
+
+import numpy as np
+num = np.array([20,30,40,50])
+
+(ii) arange() : start,end,stop 
+variable = np.arraye(start,end,stop)
